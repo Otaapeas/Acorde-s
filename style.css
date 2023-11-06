@@ -1,0 +1,16 @@
+header h1 {
+    font-family: "Arial", sans-serif; /* Fonte da família Arial */
+    font-size: 36px; /* Tamanho da fonte */
+    color: #333; /* Cor do texto */
+    text-align: left; /* Alinhamento de texto à esquerda */
+    margin: 0; /* Remover margem superior padrão */
+    padding: 20px 0; /* Espaçamento interno */
+    width: 100%; /* Largura total da página */
+  }
+  #youtube-player {
+    width: 640px;
+    height: 360px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+  }
+    
